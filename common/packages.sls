@@ -1,6 +1,5 @@
 common_packages:
   pkg.installed:
     - pkgs:
-      - htop
-      - strace
-      - vim
+      - ruby-full
+      - ruby-bundler
