@@ -1,4 +1,4 @@
-common_packages:
+install cmatrix:
   pkg.installed:
     - pkgs:
       - cmatrix
