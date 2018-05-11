@@ -6,3 +6,4 @@ base:
 test:
   '*-test*':
     - common
+    - cmatrix
