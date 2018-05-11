@@ -1,7 +1,4 @@
 base:
   '*':
     - common
-
-test:
-  '*':
     - cmatrix
